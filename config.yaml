@@ -8,6 +8,7 @@ disqusShortname: "fkraus-1"
 enableEmoji: true
 
 params:
+    background: "images/castle_background.png"
     gitRepo: "https://github.com/Winehorn/winehorn_blog"
 
     newsletter:
