@@ -1,0 +1,14 @@
+baseURL: "https://fkraus.dev/"
+languageCode: "en-us"
+title: "fkraus"
+theme: "toha"
+
+disqusShortname: "fkraus-1"
+
+enableEmoji: true
+
+params:
+    gitRepo: "https://github.com/Winehorn/winehorn_blog"
+
+    newsletter:
+        enable: false

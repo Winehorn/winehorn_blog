@@ -1,0 +1,9 @@
+name = "Florian Kraus"
+nickname = "Flo"
+
+greeting = "Hi! I am"
+image = "images/author/Kraus_Florian_bw.png"
+
+summary = ["I am a Developer", "I am a Husband", "I am a Cat Dad"]
+
+[contactInfo]

@@ -1,0 +1,28 @@
+designation = "Software Engineer"
+
+# section information
+[section]
+    name = "About"
+    id = "about"
+    enable = true
+    weight = 1
+    showOnNavbar = true
+    template = "sections/about.html"
+
+[company]
+    name = "MAGNA Telemotive GmbH"
+    url = "https://www.telemotive.de/"
+
+[socialLinks]
+    [socialLinks.github]
+    name = "Github"
+    icon = "fab fa-github"
+    url = "https://github.com/Winehorn"
+
+    [socialLinks.linkedin]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    url = "www.linkedin.com/in/florian-kraus-bb8638128"
+
+
+

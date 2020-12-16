@@ -1,0 +1,31 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+  - company:
+      name: MAGNA Telemotive GmbH
+      url: "telemotive.de"
+      location: Munich - Germany
+    positions:
+      - designation: Project Engineer
+        start: Mar 2019
+
+      - designation: Master Thesis
+        start: May 2018
+        end: Feb 2019
+
+  - company:
+      name: Siemens PLM Software
+      url: "https://www.plm.automation.siemens.com/global/en/"
+      location: Munich - Germany
+    positions:
+      - designation: Working Student
+        start: Feb 2017
+        end: May 2018
+        responsibilities:
+          - Install and configure LAMP stack on CentOS
+          - Create internal webtools with LAMP
