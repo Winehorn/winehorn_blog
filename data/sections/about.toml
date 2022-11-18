@@ -10,8 +10,8 @@ showOnNavbar = true
 template = "sections/about.html"
 
 [company]
-name = "MAGNA Telemotive GmbH"
-url = "https://www.telemotive.de/"
+name = "Octopus Energy Germany GmbH"
+url = "https://octopusenergy.de//"
 
 [socialLinks]
 [socialLinks.github]
