@@ -13,6 +13,9 @@ experiences:
     positions:
       - designation: Project Engineer
         start: Mar 2019
+        end: Jun 2021
+        responsibilities:
+          - Test automation for automotive clients
 
       - designation: Master Thesis
         start: May 2018
