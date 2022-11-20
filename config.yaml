@@ -10,6 +10,11 @@ enableEmoji: true
 params:
     background: "images/castle_background.png"
     gitRepo: "https://github.com/Winehorn/winehorn_blog"
+    features:
+        analytics:
+          enabled: true
+          goatCounter:
+              code: "fkraus"
 
     newsletter:
         enable: false
